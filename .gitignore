@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Logs
+*.log
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+
+# Others
+node_modules/
+.dockerignore
+
+appsettings.json
+
+.env.local
+.env.*.local
